@@ -1,0 +1,1074 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Studio Caps — Gorras personalizadas y diseños exclusivos.">
+  <title>Studio Caps — Gorras personalizadas</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Yellowtail&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <main class="caps-store">
+
+    <!-- CABECERA -->
+    <header class="caps-header">
+
+      <div class="brand-band">
+        <div
+          class="brand-band-bg"
+          style="background-image: url('https://images.unsplash.com/photo-1521369909029-2afed882baee?w=1600');"
+        ></div>
+
+        <div class="brand-band-overlay"></div>
+
+        <div class="brand-band-content">
+          <h1 class="brand-band-title">Studio Caps</h1>
+          <p class="brand-band-slogan">Custom caps. Your style.</p>
+        </div>
+      </div>
+
+      <div class="caps-subheader">
+        <nav class="caps-navigation" aria-label="Navegación principal">
+          <a href="#caps">Gorras</a>
+          <a href="#custom">Personalizadas</a>
+          <a href="#about">Nosotros</a>
+        </nav>
+      </div>
+
+    </header>
+
+    <!-- CARRITO -->
+    <a class="floating-cart" href="#cart" aria-label="Abrir carrito">
+      <span class="cart-icon">🛒</span>
+      <span class="cart-count">0</span>
+    </a>
+
+    <!-- RESEÑAS -->
+    <div class="reviews-marquee" aria-label="Opiniones de clientes">
+      <div class="marquee-track">
+
+        <div class="marquee-content">
+          <span class="marquee-item">
+            <span class="marquee-stars">★★★★★</span>
+            “La mejor gorra que he comprado, acabado perfecto” —
+            <strong>Laura M.</strong>
+          </span>
+
+          <span class="marquee-item">
+            <span class="marquee-stars">★★★★★</span>
+            “Personalización exacta a lo que pedí” —
+            <strong>Diego R.</strong>
+          </span>
+
+          <span class="marquee-item">
+            <span class="marquee-stars">★★★★☆</span>
+            “Envío rápido y calidad top” —
+            <strong>Ana P.</strong>
+          </span>
+        </div>
+
+        <div class="marquee-content" aria-hidden="true">
+          <span class="marquee-item">
+            <span class="marquee-stars">★★★★★</span>
+            “La mejor gorra que he comprado, acabado perfecto” —
+            <strong>Laura M.</strong>
+          </span>
+
+          <span class="marquee-item">
+            <span class="marquee-stars">★★★★★</span>
+            “Personalización exacta a lo que pedí” —
+            <strong>Diego R.</strong>
+          </span>
+
+          <span class="marquee-item">
+            <span class="marquee-stars">★★★★☆</span>
+            “Envío rápido y calidad top” —
+            <strong>Ana P.</strong>
+          </span>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- HERO -->
+    <section class="caps-hero">
+
+      <div class="hero-background"></div>
+
+      <div class="hero-content">
+
+        <p class="small-title">GORRAS PERSONALIZADAS</p>
+
+        <h2>
+          Diseñadas para<br>
+          destacar.
+        </h2>
+
+        <p class="hero-description">
+          Gorras seleccionadas y personalizadas a tu estilo.
+          Diseños exclusivos, acabados cuidados y unidades limitadas.
+        </p>
+
+        <div class="hero-buttons">
+          <a href="#caps" class="button button-dark">
+            VER GORRAS
+          </a>
+
+          <a href="#custom" class="button button-light">
+            CREA LA TUYA
+          </a>
+        </div>
+
+      </div>
+
+    </section>
+
+    <!-- PRODUCTOS -->
+    <section id="caps" class="products-section">
+
+      <div class="section-heading">
+        <p>COLECCIÓN</p>
+        <h2>Nuestras gorras</h2>
+      </div>
+
+      <div class="product-grid">
+
+        <!-- PRODUCTO 1 -->
+        <article class="product-card">
+
+          <a href="#" class="product-image">
+            <img
+              src="https://images.unsplash.com/photo-1521369909029-2afed882baee?w=800"
+              alt="Gorra negra"
+              loading="lazy"
+            >
+          </a>
+
+          <div class="product-information">
+
+            <div>
+              <h3>
+                <a href="#">Gorra Classic Negra</a>
+              </h3>
+
+              <p class="product-price">25,00 €</p>
+            </div>
+
+            <a href="#" class="product-button">
+              VER
+            </a>
+
+          </div>
+
+        </article>
+
+        <!-- PRODUCTO 2 -->
+        <article class="product-card">
+
+          <a href="#" class="product-image">
+            <img
+              src="https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=800"
+              alt="Gorra beige"
+              loading="lazy"
+            >
+          </a>
+
+          <div class="product-information">
+
+            <div>
+              <h3>
+                <a href="#">Gorra Beige Bordada</a>
+              </h3>
+
+              <p class="product-price">28,00 €</p>
+            </div>
+
+            <a href="#" class="product-button">
+              VER
+            </a>
+
+          </div>
+
+        </article>
+
+        <!-- PRODUCTO 3 -->
+        <article class="product-card">
+
+          <a href="#" class="product-image">
+            <img
+              src="https://images.unsplash.com/photo-1620231150904-a86add983b12?w=800"
+              alt="Gorra verde militar"
+              loading="lazy"
+            >
+          </a>
+
+          <div class="product-information">
+
+            <div>
+              <h3>
+                <a href="#">Gorra Verde Militar</a>
+              </h3>
+
+              <p class="product-price">27,00 €</p>
+            </div>
+
+            <a href="#" class="product-button">
+              VER
+            </a>
+
+          </div>
+
+        </article>
+
+        <!-- PRODUCTO 4 -->
+        <article class="product-card">
+
+          <a href="#" class="product-image">
+            <img
+              src="https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=800"
+              alt="Gorra blanca"
+              loading="lazy"
+            >
+          </a>
+
+          <div class="product-information">
+
+            <div>
+              <h3>
+                <a href="#">Gorra Blanca Minimal</a>
+              </h3>
+
+              <p class="product-price">25,00 €</p>
+            </div>
+
+            <a href="#" class="product-button">
+              VER
+            </a>
+
+          </div>
+
+        </article>
+
+      </div>
+
+    </section>
+
+    <!-- PERSONALIZACIÓN -->
+    <section id="custom" class="custom-section">
+
+      <div class="custom-content">
+
+        <p class="small-title">PERSONALIZACIÓN</p>
+
+        <h2>
+          Crea una gorra<br>
+          completamente tuya.
+        </h2>
+
+        <p>
+          Elige el modelo, el color y la personalización.
+          Puedes enviarnos tu propio diseño y crear una pieza única.
+        </p>
+
+        <a href="#" class="button button-dark">
+          PERSONALIZAR GORRA
+        </a>
+
+      </div>
+
+      <div class="custom-image">
+
+        <img
+          src="https://images.unsplash.com/photo-1521369909029-2afed882baee?w=1000"
+          alt="Gorra personalizada"
+          loading="lazy"
+        >
+
+      </div>
+
+    </section>
+
+    <!-- NOSOTROS -->
+    <section id="about" class="about-section">
+
+      <p class="small-title">NUESTRA MARCA</p>
+
+      <h2>
+        Hechas para llevar<br>
+        tu estilo.
+      </h2>
+
+      <p>
+        Cada gorra se personaliza cuidadosamente para conseguir
+        un acabado diferente y duradero.
+      </p>
+
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="caps-footer">
+
+      <div class="footer-brand">
+        <span>Studio Caps</span>
+        <p>Custom caps. Your style.</p>
+      </div>
+
+      <div class="footer-links">
+        <a href="#caps">Gorras</a>
+        <a href="#custom">Personalizadas</a>
+        <a href="#about">Nosotros</a>
+      </div>
+
+      <p class="footer-copy">
+        © 2026 Studio Caps. Todos los derechos reservados.
+      </p>
+
+    </footer>
+
+  </main>
+
+  <style>
+
+    /* =========================
+       VARIABLES
+    ========================= */
+
+    :root {
+      --black: #111111;
+      --beige: #d8c7aa;
+      --cream: #f4efe6;
+      --white: #ffffff;
+      --light-beige: #e9e1d5;
+      --border: rgba(17, 17, 17, 0.12);
+    }
+
+
+    /* =========================
+       RESET
+    ========================= */
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: var(--cream);
+      color: var(--black);
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+    }
+
+    a {
+      -webkit-tap-highlight-color: transparent;
+    }
+
+
+    /* =========================
+       STORE
+    ========================= */
+
+    .caps-store {
+      position: relative;
+      min-height: 100vh;
+      background: var(--cream);
+      color: var(--black);
+    }
+
+
+    /* =========================
+       HEADER
+    ========================= */
+
+    .caps-header {
+      background: var(--beige);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .brand-band {
+      position: relative;
+      overflow: hidden;
+      padding: 34px 5% 30px;
+      text-align: center;
+      background: var(--black);
+    }
+
+    .brand-band-bg {
+      position: absolute;
+      inset: 0;
+      background-size: cover;
+      background-position: center;
+      opacity: 0.28;
+      filter: grayscale(1);
+      transform: scale(1.02);
+    }
+
+    .brand-band-overlay {
+      position: absolute;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.2);
+    }
+
+    .brand-band-content {
+      position: relative;
+      z-index: 2;
+    }
+
+    .brand-band-title {
+      margin: 0;
+      font-family: "Yellowtail", cursive;
+      font-size: 44px;
+      line-height: 1;
+      font-weight: 400;
+      letter-spacing: 0.5px;
+      color: var(--white);
+    }
+
+    .brand-band-slogan {
+      margin: 7px 0 0;
+      color: var(--beige);
+      font-size: 11px;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+    }
+
+    .caps-subheader {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 12px 5%;
+    }
+
+    .caps-navigation {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 28px;
+    }
+
+    .caps-navigation a {
+      color: var(--black);
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      transition: opacity 0.2s ease;
+    }
+
+    .caps-navigation a:hover {
+      opacity: 0.55;
+    }
+
+
+    /* =========================
+       CART
+    ========================= */
+
+    .floating-cart {
+      position: fixed;
+      top: 18px;
+      right: 18px;
+      z-index: 999;
+      width: 50px;
+      height: 50px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      background: var(--black);
+      color: var(--white);
+      text-decoration: none;
+      box-shadow: 0 4px 14px rgba(17, 17, 17, 0.25);
+      transition: transform 0.2s ease;
+    }
+
+    .floating-cart:hover {
+      transform: scale(1.05);
+    }
+
+    .cart-icon {
+      font-size: 21px;
+      line-height: 1;
+    }
+
+    .cart-count {
+      position: absolute;
+      top: -4px;
+      right: -4px;
+      width: 20px;
+      height: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      background: var(--beige);
+      color: var(--black);
+      font-size: 10px;
+      font-weight: 700;
+    }
+
+
+    /* =========================
+       REVIEWS
+    ========================= */
+
+    .reviews-marquee {
+      overflow: hidden;
+      background: var(--black);
+      color: var(--white);
+      padding: 12px 0;
+    }
+
+    .marquee-track {
+      display: flex;
+      width: max-content;
+      animation: marquee-scroll 28s linear infinite;
+    }
+
+    .marquee-content {
+      display: flex;
+      gap: 50px;
+      padding-right: 50px;
+      white-space: nowrap;
+    }
+
+    .marquee-item {
+      font-size: 13px;
+      letter-spacing: 0.3px;
+    }
+
+    .marquee-stars {
+      margin-right: 6px;
+      color: var(--beige);
+      letter-spacing: 1px;
+    }
+
+    @keyframes marquee-scroll {
+      from {
+        transform: translateX(0);
+      }
+
+      to {
+        transform: translateX(-50%);
+      }
+    }
+
+
+    /* =========================
+       HERO
+    ========================= */
+
+    .caps-hero {
+      position: relative;
+      min-height: 600px;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+      padding: 80px 8%;
+      background: var(--black);
+      color: var(--white);
+    }
+
+    .hero-background {
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(
+          90deg,
+          rgba(17, 17, 17, 0.96),
+          rgba(17, 17, 17, 0.68)
+        ),
+        url("https://images.unsplash.com/photo-1521369909029-2afed882baee?w=1600");
+      background-size: cover;
+      background-position: center;
+      filter: grayscale(1);
+      transform: scale(1.02);
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      max-width: 620px;
+    }
+
+    .small-title {
+      margin: 0 0 18px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+
+    .hero-content h2,
+    .custom-content h2,
+    .about-section h2 {
+      margin: 0 0 25px;
+      font-size: clamp(42px, 6vw, 82px);
+      line-height: 0.95;
+      letter-spacing: -3px;
+    }
+
+    .hero-description {
+      max-width: 500px;
+      margin: 0;
+      font-size: 17px;
+      line-height: 1.6;
+      opacity: 0.88;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 12px;
+      margin-top: 35px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 48px;
+      padding: 0 25px;
+      border: none;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      transition:
+        transform 0.2s ease,
+        opacity 0.2s ease;
+    }
+
+    .button-dark {
+      background: var(--black);
+      color: var(--white);
+    }
+
+    .button-light {
+      background: var(--beige);
+      color: var(--black);
+    }
+
+    .button:hover {
+      transform: translateY(-2px);
+      opacity: 0.9;
+    }
+
+
+    /* =========================
+       PRODUCTS
+    ========================= */
+
+    .products-section {
+      padding: 90px 5%;
+    }
+
+    .section-heading {
+      margin-bottom: 40px;
+    }
+
+    .section-heading p {
+      margin: 0 0 8px;
+      font-size: 11px;
+      letter-spacing: 2px;
+      font-weight: 700;
+    }
+
+    .section-heading h2 {
+      margin: 0;
+      font-size: 44px;
+      letter-spacing: -1.5px;
+    }
+
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 25px;
+    }
+
+    .product-card {
+      overflow: hidden;
+      background: var(--white);
+    }
+
+    .product-image {
+      display: block;
+      aspect-ratio: 1 / 1;
+      overflow: hidden;
+      background: var(--light-beige);
+    }
+
+    .product-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.4s ease;
+    }
+
+    .product-card:hover .product-image img {
+      transform: scale(1.04);
+    }
+
+    .product-information {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 15px;
+      padding: 18px;
+    }
+
+    .product-information h3 {
+      margin: 0 0 7px;
+      font-size: 14px;
+      text-transform: uppercase;
+    }
+
+    .product-information h3 a {
+      color: var(--black);
+      text-decoration: none;
+    }
+
+    .product-price {
+      margin: 0;
+      font-size: 14px;
+    }
+
+    .product-button {
+      padding: 8px 12px;
+      background: var(--black);
+      color: var(--white);
+      text-decoration: none;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      transition: opacity 0.2s ease;
+    }
+
+    .product-button:hover {
+      opacity: 0.75;
+    }
+
+
+    /* =========================
+       CUSTOM
+    ========================= */
+
+    .custom-section {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      background: var(--beige);
+    }
+
+    .custom-content {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: center;
+      padding: 90px 10%;
+    }
+
+    .custom-content h2 {
+      font-size: clamp(40px, 5vw, 65px);
+    }
+
+    .custom-content > p:not(.small-title) {
+      max-width: 500px;
+      margin: 0 0 30px;
+      line-height: 1.6;
+    }
+
+    .custom-image {
+      min-height: 500px;
+      overflow: hidden;
+      background: #c8b79c;
+    }
+
+    .custom-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+
+    /* =========================
+       ABOUT
+    ========================= */
+
+    .about-section {
+      padding: 110px 10%;
+      text-align: center;
+      background: var(--black);
+      color: var(--white);
+    }
+
+    .about-section h2 {
+      font-size: clamp(42px, 6vw, 75px);
+    }
+
+    .about-section > p:last-child {
+      max-width: 600px;
+      margin: 0 auto;
+      line-height: 1.7;
+      opacity: 0.8;
+    }
+
+
+    /* =========================
+       FOOTER
+    ========================= */
+
+    .caps-footer {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      align-items: center;
+      gap: 30px;
+      padding: 40px 5%;
+      background: var(--black);
+      border-top: 1px solid rgba(255, 255, 255, 0.12);
+      color: var(--white);
+    }
+
+    .footer-brand span {
+      font-family: "Yellowtail", cursive;
+      font-size: 30px;
+    }
+
+    .footer-brand p {
+      margin: 4px 0 0;
+      color: var(--beige);
+      font-size: 10px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 22px;
+    }
+
+    .footer-links a {
+      color: var(--white);
+      text-decoration: none;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      opacity: 0.8;
+    }
+
+    .footer-links a:hover {
+      opacity: 1;
+    }
+
+    .footer-copy {
+      margin: 0;
+      text-align: right;
+      font-size: 10px;
+      opacity: 0.55;
+    }
+
+
+    /* =========================
+       TABLET
+    ========================= */
+
+    @media screen and (max-width: 1000px) {
+
+      .product-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .caps-footer {
+        grid-template-columns: 1fr;
+        text-align: center;
+      }
+
+      .footer-links {
+        order: 3;
+      }
+
+      .footer-copy {
+        text-align: center;
+      }
+
+    }
+
+
+    /* =========================
+       MOBILE
+    ========================= */
+
+    @media screen and (max-width: 800px) {
+
+      .brand-band {
+        padding: 26px 6% 22px;
+      }
+
+      .brand-band-title {
+        font-size: 34px;
+      }
+
+      .caps-subheader {
+        padding: 12px 5%;
+      }
+
+      .caps-navigation {
+        width: 100%;
+        gap: 18px;
+        justify-content: center;
+        overflow-x: auto;
+        padding-bottom: 4px;
+      }
+
+      .caps-navigation a {
+        white-space: nowrap;
+        font-size: 11px;
+      }
+
+      .floating-cart {
+        top: 14px;
+        right: 14px;
+        width: 46px;
+        height: 46px;
+      }
+
+      .caps-hero {
+        min-height: 540px;
+        padding: 60px 7%;
+      }
+
+      .hero-content h2 {
+        font-size: 50px;
+        letter-spacing: -2px;
+      }
+
+      .hero-description {
+        font-size: 15px;
+      }
+
+      .hero-buttons {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .button {
+        width: 100%;
+      }
+
+      .products-section {
+        padding: 65px 5%;
+      }
+
+      .section-heading h2 {
+        font-size: 38px;
+      }
+
+      .product-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+      }
+
+      .product-information {
+        display: block;
+        padding: 12px;
+      }
+
+      .product-information h3 {
+        font-size: 11px;
+        line-height: 1.3;
+      }
+
+      .product-price {
+        font-size: 13px;
+      }
+
+      .product-button {
+        display: inline-block;
+        margin-top: 10px;
+      }
+
+      .custom-section {
+        grid-template-columns: 1fr;
+      }
+
+      .custom-content {
+        padding: 65px 7%;
+      }
+
+      .custom-image {
+        min-height: 350px;
+      }
+
+      .about-section {
+        padding: 75px 7%;
+      }
+
+      .about-section h2 {
+        font-size: 48px;
+        letter-spacing: -2px;
+      }
+
+      .footer-links {
+        flex-wrap: wrap;
+      }
+
+    }
+
+
+    /* =========================
+       SMALL MOBILE
+    ========================= */
+
+    @media screen and (max-width: 480px) {
+
+      .caps-navigation {
+        justify-content: flex-start;
+      }
+
+      .brand-band-title {
+        font-size: 32px;
+      }
+
+      .hero-content h2 {
+        font-size: 44px;
+      }
+
+      .section-heading h2 {
+        font-size: 34px;
+      }
+
+      .product-information h3 {
+        font-size: 10px;
+      }
+
+      .product-button {
+        width: 100%;
+        text-align: center;
+      }
+
+      .custom-content h2 {
+        font-size: 42px;
+        letter-spacing: -2px;
+      }
+
+    }
+
+  </style>
+
+</body>
+</html>
